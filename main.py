@@ -6,3 +6,4 @@ for i in range (ask):
 
 print ("Всем им", all_age, " лет" )
 print ("l")
+print("mkf")
